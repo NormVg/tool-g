@@ -1,0 +1,32 @@
+[
+      {
+            "command": "echo hello test3",
+            "name": "test3",
+            "disc": null
+      },
+      {
+            "command": "echo added new command",
+            "name": "kk",
+            "disc": "bhak"
+      },
+      {
+            "command": "echo added new command",
+            "name": "kg",
+            "disc": "bhak"
+      },
+      {
+            "command": "jjj",
+            "name": "jj",
+            "disc": "j"
+      },
+      {
+            "command": "\"echo newed heheheh\"",
+            "name": "newed",
+            "disc": null
+      },
+      {
+            "command": "sdfsd",
+            "name": "new2",
+            "disc": null
+      }
+]
